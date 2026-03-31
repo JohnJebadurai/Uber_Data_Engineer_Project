@@ -1,72 +1,72 @@
 [
   {
     "city_id": 1,
-    "city": "John New York",
+    "city": "New York",
     "state": "NY",
     "region": "Northeast",
-    "updated_at": "2026-03-31T08:09:54.367+00:00"
+    "updated_at": "2026-03-25T08:09:54.367+00:00"
   },
   {
     "city_id": 2,
-    "city": "John Las Vegas",
+    "city": "Las Vegas",
     "state": "CA",
     "region": "West",
-    "updated_at": "2026-03-31T08:09:54.367+00:00"
+    "updated_at": "2026-03-25T08:09:54.367+00:00"
   },
   {
     "city_id": 3,
-    "city": "John Chicago",
+    "city": "Chicago",
     "state": "IL",
     "region": "Midwest",
-    "updated_at": "2026-03-31T08:09:54.367+00:00"
+    "updated_at": "2026-03-25T08:09:54.367+00:00"
   },
   {
     "city_id": 4,
-    "city": "John Houston",
+    "city": "Houston",
     "state": "TX",
     "region": "South",
-    "updated_at": "2026-03-31T08:09:54.367+00:00"
+    "updated_at": "2026-03-25T08:09:54.367+00:00"
   },
   {
     "city_id": 5,
-    "city": "John Phoenix",
+    "city": "Phoenix",
     "state": "AZ",
     "region": "Southwest",
-    "updated_at": "2026-03-31T08:09:54.367+00:00"
+    "updated_at": "2026-03-25T08:09:54.367+00:00"
   },
   {
     "city_id": 6,
-    "city": "John Philadelphia",
+    "city": "Philadelphia",
     "state": "PA",
     "region": "Northeast",
-    "updated_at": "2026-03-31T08:09:54.367+00:00"
+    "updated_at": "2026-03-25T08:09:54.367+00:00"
   },
   {
     "city_id": 7,
-    "city": "John San Antonio",
+    "city": "San Antonio",
     "state": "TX",
     "region": "South",
-    "updated_at": "2026-03-31T08:09:54.367+00:00"
+    "updated_at": "2026-03-25T08:09:54.367+00:00"
   },
   {
     "city_id": 8,
-    "city": "John San Diego",
+    "city": "San Diego",
     "state": "CA",
     "region": "West",
-    "updated_at": "2026-03-31T08:09:54.367+00:00"
+    "updated_at": "2026-03-25T08:09:54.367+00:00"
   },
   {
     "city_id": 9,
-    "city": "John Dallas",
+    "city": "Dallas",
     "state": "TX",
     "region": "South",
-    "updated_at": "2026-03-31T08:09:54.367+00:00"
+    "updated_at": "2026-03-25T08:09:54.367+00:00"
   },
   {
     "city_id": 10,
-    "city": "John  San Jose",
+    "city": "San Jose",
     "state": "CA",
     "region": "West",
-    "updated_at": "2026-03-31T08:09:54.367+00:00"
+    "updated_at": "2026-03-25T08:09:54.367+00:00"
   }
 ]
